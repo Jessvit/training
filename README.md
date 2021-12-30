@@ -1,0 +1,2 @@
+# training
+first time Git
