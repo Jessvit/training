@@ -10,12 +10,8 @@ To make a quote >
 
 
 To make a block with distinct vew
-```
-gggggggggg
-gggggggggg
-gggggggggg
-```
 
+Some changes
 
 To make a link []()
 [This is a link](https://github.com/Jessvit/training/edit/main/README.md)
